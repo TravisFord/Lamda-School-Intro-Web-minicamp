@@ -1,0 +1,38 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.top {
+	background-color: red;
+	height: 60px;
+}
+
+.col {
+	width: 33.33%;
+	height: 558px;
+	float: left;
+}
+
+.row {
+	width: 100%;
+}
+.left {
+	background-color: blue;
+}
+
+.center {
+	background-color: purple;
+}
+
+.right {
+	background-color: yellow;
+}
+
+.footer {
+	background-color: green;
+	height: 90px;
+	width: 100%;
+	position: relative;
+	top: 468px;
+}
